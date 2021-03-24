@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author: Daniel Bowder
-# Date: March 23, 2020 01:31 PST
+# Date: March 23, 2020 17:34 PST
 
 
 # Variables
